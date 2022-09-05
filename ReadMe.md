@@ -6,11 +6,11 @@
 >
 > You can find the preview and live deployment link of the website below
 
-## Preview
+# Preview
 
 ![Preview Image](./assets/Shopify_Preview.png)
 
-[Live Deployment Link](https://rajshopifyclone.netlify.app/)
+## [Live Deployment Link](https://rajshopifyclone.netlify.app/)
 
 ### Concepts used while building this web page
 
